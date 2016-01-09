@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">辞書</string>
+    <string name="about">アプリについて</string>
+    <string name="about_message">ダウンロードするためのありがとう！このアプリはウィクショナリー日本語版を使用して作製しました。詳細については、wikitionary.orgに行きます。</string>
+    <string name="action_settings">[設定]</string>
+    <string name="failed_to_get_definition">任意の定義を取得できませんでした</string>
+    <string name="language_category">言語</string>
+    <string name="loading">読み込んでいます...</string>
+    <string name="meaning_activity_title">定義</string>
+    <string name="no_match">歯が立たない</string>
+    <string name="notifications_category">お知らせ</string>
+    <string name="rate">アプリを評価</string>
+    <string name="rate_gp">Google Playでのアプリを評価</string>
+    <string name="rate_message">あなたはアプリが好きですか？その場合は、Googleのプレイでそれを評価します！</string>
+    <string name="select_language">選択した辞書の言語</string>
+    <string name="select_language_title">言語</string>
+    <string name="show_notification">ショーの通知</string>
+    <string name="something_went_wrong">Oops...</string>
+    <string name="status_bar_et_text">Word...</string>
+    <string name="thanks">ありがとう！</string>
+    <string name="toast_definition">画面上の定義を表示</string>
+    <string name="use_data">データを使用したときに通知を表示します</string>
+    <string name="api_endpoint">http://ja.wiktionary.org/</string>
+</resources>

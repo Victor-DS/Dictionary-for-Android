@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicionário</string>
+    <string name="about">Sobre</string>
+    <string name="about_message">Espero que tenham gostado.\n\nEste app não teria sido possível sem o Wiktionary. Todas as palavras e definições vieram de lá. Se quiser acessar do PC, você pode ir para Wiktionary.org, e ainda pode contribuir!\n\n Aliás, gostou do app? Avalie-o no Google Play! (Não demora 30s)</string>
+    <string name="action_settings">Configurações</string>
+    <string name="api_endpoint">http://pt.wiktionary.org/</string>
+    <string name="failed_to_get_definition">Não conseguimos uma definição</string>
+    <string name="loading">Carregando...</string>
+    <string name="meaning_activity_title">Significado</string>
+    <string name="no_match">Nenhuma definição</string>
+    <string name="rate">Avalie!</string>
+    <string name="rate_gp">Avalie no Google Play</string>
+    <string name="rate_message">Ei, você gostou do app? Se sim, dê uma nota no Google Play! Não demora 20s... Obrigado!</string>
+    <string name="select_language">Selecione o idioma do dicionário</string>
+    <string name="select_language_title">Idioma</string>
+    <string name="show_notification">Mostrar notificações</string>
+    <string name="something_went_wrong">Ops... Algo está errado</string>
+    <string name="status_bar_et_text">Palavra...</string>
+    <string name="thanks">Obrigado!</string>
+    <string name="use_data">Mostrar notificações quando estiver usando o 3G</string>
+    <string name="language_category">Idioma</string>
+    <string name="notifications_category">Noticações</string>
+    <string name="toast_definition">Mostrar definição na tela</string>
+</resources>

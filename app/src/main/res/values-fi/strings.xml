@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sanakirja</string>
+    <string name="about">Tietoja App</string>
+    <string name="about_message">Kiitos lataamiseen! Tämä sovellus on tehty käyttäen Wikisanakirja. Lisätietoja on osoitteessa wikitionary.org.</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="api_endpoint">http://fi.wiktionary.org/</string>
+    <string name="failed_to_get_definition">Voinut saada mitään määritelmää</string>
+    <string name="language_category">Kieli</string>
+    <string name="loading">Ladataan...</string>
+    <string name="meaning_activity_title">Määritelmä</string>
+    <string name="no_match">Ei ottelu</string>
+    <string name="notifications_category">Ilmoitukset</string>
+    <string name="rate">Arvioi app</string>
+    <string name="rate_gp">Arvioi app Google Play</string>
+    <string name="rate_message">Piditkö app? Jos näin on, arvostella sitä Google Play!</string>
+    <string name="select_language">Valitse sanakirjan kieli</string>
+    <string name="select_language_title">Kieli</string>
+    <string name="show_notification">Näytä ilmoitukset</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Sana...</string>
+    <string name="thanks">Kiitos!</string>
+    <string name="toast_definition">Näytä määritelmä ruudulla</string>
+    <string name="use_data">Näytä ilmoitus, kun tietojen avulla</string>
+</resources>

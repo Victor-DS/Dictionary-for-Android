@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+
+    <!-- ACTIVITIES -->
+    <string name="something_went_wrong">Oops... Something is wrong!</string>
+    <string name="meaning_activity_title">Definition</string>
+    <string name="status_bar_et_text">Word...</string>
+    <string name="api_endpoint">http://en.wiktionary.org/</string>
+    <string name="loading">Loading...</string>
+    <string name="no_match">No match</string>
+    <string name="failed_to_get_definition">Couldn\'t get any definition</string>
+    <string name="thanks">Thanks!</string>
+
+    <!-- MENU -->
+    <string name="action_settings">Settings</string>
+    <string name="rate_gp">Rate on Google Play</string>
+
+    <!-- POP UP -->
+    <string name="about">About</string>
+    <string name="about_message">We hope you\'ve liked it!\n\nThis app would not have been possible
+        without Wiktionary. All words and definitions come from there, so if you\'d like to access
+        it on your PC or help out, just go to wiktionary.org.\n\nOh, since we got your attention,
+        why not go to Google Play and tell us if you liked the app?\nYes, we read all comments.
+    </string>
+    <string name="rate">Rate it!</string>
+    <string name="rate_message">Hey, did you like the app? If so, take 20s of your time to rate it
+        on Google Play, we would really appreciate it.</string>
+
+    <!-- SETTINGS -->
+    <string name="notifications_category">Notifications</string>
+    <string name="language_category">Language</string>
+    <string name="use_data">Show notification when using data</string>
+    <string name="show_notification">Show notifications</string>
+    <string name="select_language">Select dictionary\'s language</string>
+    <string name="select_language_title">Language</string>
+    <string name="toast_definition">Show definition on screen</string>
+    <string name="headsUp" translatable="false">Heads Up Notification (Lollipop only)</string>
+    <string-array name="select_language_entries"
+        translatable="false" >
+        <item>English</item>
+        <item>Français</item>
+        <item>Malagasy</item>
+        <item>Català</item>
+        <item>Eesti</item>
+        <item>Español</item>
+        <item>한국어</item>
+        <item>Bahasa Indonesia</item>
+        <item>Italiano</item>
+        <item>ಕನ್ನಡ</item>
+        <item>Kurdî / كوردی</item>
+        <item>Limburgs</item>
+        <item>Magyar</item>
+        <item>മലയാളം</item>
+        <item>Nederlands</item>
+        <item>日本語</item>
+        <item>Norsk (bokmål)</item>
+        <item>Oʻzbekcha / Ўзбекча</item>
+        <item>Português</item>
+        <item>Română</item>
+        <item>Русский</item>
+        <item>Suomi</item>
+        <item>Svenska</item>
+        <item>தமிழ்</item>
+        <item>Tiếng Việt</item>
+        <item>中文</item>
+        <item>Dansk</item>
+    </string-array>
+    <string-array name="select_language_values"
+        translatable="false" >
+        <item>http://en.wiktionary.org/</item>
+        <item>http://fr.wiktionary.org/</item>
+        <item>http://mg.wiktionary.org/</item>
+        <item>http://ca.wiktionary.org/</item>
+        <item>http://et.wiktionary.org/</item>
+        <item>http://es.wiktionary.org/</item>
+        <item>http://ko.wiktionary.org/</item>
+        <item>http://id.wiktionary.org/</item>
+        <item>http://it.wiktionary.org/</item>
+        <item>http://kn.wiktionary.org/</item>
+        <item>http://ku.wiktionary.org/</item>
+        <item>http://li.wiktionary.org/</item>
+        <item>http://hu.wiktionary.org/</item>
+        <item>http://ml.wiktionary.org/</item>
+        <item>http://nl.wiktionary.org/</item>
+        <item>http://ja.wiktionary.org/</item>
+        <item>http://no.wiktionary.org/</item>
+        <item>http://pt.wiktionary.org/</item>
+        <item>http://ro.wiktionary.org/</item>
+        <item>http://ru.wiktionary.org/</item>
+        <item>http://fi.wiktionary.org/</item>
+        <item>http://sh.wiktionary.org/</item>
+        <item>http://sv.wiktionary.org/</item>
+        <item>http://ta.wiktionary.org/</item>
+        <item>http://vi.wiktionary.org/</item>
+        <item>http://zh.wiktionary.org/</item>
+        <item>http://da.wiktionary.org/</item>
+    </string-array>
+
+</resources>

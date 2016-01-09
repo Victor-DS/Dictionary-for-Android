@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wörterbuch</string>
+    <string name="use_data">Zeigen Benachrichtigung bei Verwendung von 3G</string>
+    <string name="about">Über</string>
+    <string name="about_message">Vielen Dank für das Herunterladen! Diese App wurde mit Hilfe Wiktionary. Für mehr Informationen, gehen Sie zu http://de.wiktionary.org/</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="api_endpoint">http://en.wiktionary.org/</string>
+    <string name="failed_to_get_definition">Keine Definition konnte nicht abgerufen werden</string>
+    <string name="loading">Wird geladen...</string>
+    <string name="meaning_activity_title">Bedeutung</string>
+    <string name="no_match">Kein Ergebnis</string>
+    <string name="rate">Bewerten</string>
+    <string name="rate_gp">Bewerten auf Google Play</string>
+    <string name="rate_message">Hat es dir gefallen? So, bewerten Sie es auf Google Play!</string>
+    <string name="select_language">Wählen Sie die Sprache Wörterbuch</string>
+    <string name="select_language_title">Sprache</string>
+    <string name="show_notification">Benachrichtigungen anzeigen</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Wort...</string>
+    <string name="thanks">Danke!</string>
+    <string name="language_category">Sprache</string>
+    <string name="notifications_category">Benachrichtigungen</string>
+    <string name="toast_definition">Anzeigen Definitionen auf dem Bildschirm</string>
+</resources>

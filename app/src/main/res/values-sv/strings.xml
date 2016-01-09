@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lexikon</string>
+    <string name="about">Om den här appen</string>
+    <string name="api_endpoint">http://sv.wiktionary.org/</string>
+    <string name="about_message">Tack för nedladdning! Denna app använder Wiktionary att få ordet definition. För mer information, gå till wiktionary.org</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="failed_to_get_definition">Det gick inte att få någon definition</string>
+    <string name="language_category">Språk</string>
+    <string name="loading">Hämtar...</string>
+    <string name="meaning_activity_title">Definition</string>
+    <string name="no_match">Ingen match</string>
+    <string name="notifications_category">Meddelanden</string>
+    <string name="rate">Betygsätt appen</string>
+    <string name="rate_gp">Betygsätt app on Google Play</string>
+    <string name="rate_message">Har du appen? Om så är fallet, gradera det på Google Play, skulle vi verkligen uppskatta det.</string>
+    <string name="select_language">Välj lexikon språk</string>
+    <string name="select_language_title">Språk</string>
+    <string name="show_notification">Visa meddelanden</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Word...</string>
+    <string name="thanks">Tack!</string>
+    <string name="toast_definition">Visa definition på skärmen</string>
+    <string name="use_data">Visa meddelande när du använder 3G</string>
+</resources>

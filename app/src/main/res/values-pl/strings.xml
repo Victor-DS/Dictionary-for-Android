@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Informacje o aplikacji</string>
+    <string name="about_message">Dzięki za pobraniem! Ta aplikacja została wykonana przy użyciu Wikisłownik. Aby uzyskać więcej informacji, przejdź do wikitionary.org.</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="api_endpoint">http://en.wiktionary.org/</string>
+    <string name="app_name">Słownik</string>
+    <string name="failed_to_get_definition">Nie udało się uzyskać żadnej definicji</string>
+    <string name="language_category">Język</string>
+    <string name="loading">Ładowanie...</string>
+    <string name="meaning_activity_title">Definicja</string>
+    <string name="no_match">Nie pasuje</string>
+    <string name="notifications_category">Powiadomienia</string>
+    <string name="rate">Oceń aplikację</string>
+    <string name="rate_gp">Oceń aplikacji w Google Play</string>
+    <string name="rate_message">Czy podoba Ci się aplikacji? Jeśli tak, oceń go w Google Play!</string>
+    <string name="select_language">Język wybierz Słownik na</string>
+    <string name="select_language_title">Język</string>
+    <string name="show_notification">Pokaż powiadomienia</string>
+    <string name="something_went_wrong">Ups...</string>
+    <string name="status_bar_et_text">Słowo...</string>
+    <string name="thanks">Dzięki!</string>
+    <string name="toast_definition">Pokaż definicję na ekranie</string>
+    <string name="use_data">Wyświetl powiadomienie, gdy na podstawie danych </string>
+</resources>

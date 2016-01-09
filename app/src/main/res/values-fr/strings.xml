@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dictionnaire</string>
+    <string name="api_endpoint">http://fr.wiktionary.org/</string>
+    <string name="about">A propos de l\'application</string>
+    <string name="about_message">Merci de télécharger! \n\nCette application a été faite en utilisant le Wiktionnaire, pour plus d\'informations à ce sujet aller à http://fr.wikitionary.org/</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="failed_to_get_definition">Impossible d\'obtenir une définition</string>
+    <string name="loading">Obtenir définition...</string>
+    <string name="meaning_activity_title">Définition</string>
+    <string name="no_match">Pas de correspondance</string>
+    <string name="rate">Vous aimez l\'application?</string>
+    <string name="rate_gp">Noter l\'application</string>
+    <string name="rate_message">Vous aimez l\'application? \nPrenez un moment pour la noter. \nMerci de votre soutien.</string>
+    <string name="thanks">Merci</string>
+    <string name="select_language">Sélectionnez la langue de dictionnaire</string>
+    <string name="select_language_title">Langue</string>
+    <string name="show_notification">Afficher les notifications</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Mot...</string>
+    <string name="use_data">Afficher une notification lorsque utilisant 3G</string>
+    <string name="language_category">Langue</string>
+    <string name="notifications_category">Notifications</string>
+    <string name="toast_definition">Voir les définitions à l\'écran</string>
+</resources>

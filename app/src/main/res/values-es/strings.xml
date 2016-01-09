@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diccionario</string>
+    <string name="about">Acerca de esta aplicación</string>
+    <string name="api_endpoint">http://es.wiktionary.org/</string>
+    <string name="about_message">Gracias por descargar! Esta aplicación utiliza Wikcionario para obtener la definición de la palabra. Para obtener más información, vaya a wiktionary.org</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="failed_to_get_definition">No se pudo obtener ninguna definición</string>
+    <string name="language_category">Idioma</string>
+    <string name="loading">Cargando...</string>
+    <string name="meaning_activity_title">Definición</string>
+    <string name="no_match">No hay resultados</string>
+    <string name="notifications_category">Notificaciones</string>
+    <string name="rate">Califica esta aplicación</string>
+    <string name="rate_gp">Calificar este programa en Google Play</string>
+    <string name="rate_message">¿Te ha gustado la aplicación? Si es así, clasificaría en Google Play, nos lo agradecería muchísimo.</string>
+    <string name="select_language">Seleccionar idioma de diccionario</string>
+    <string name="select_language_title">Idioma</string>
+    <string name="show_notification">Mostrar notificaciones</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Palabra...</string>
+    <string name="thanks">Gracias!</string>
+    <string name="toast_definition">Mostrar definición en pantalla</string>
+    <string name="use_data">Mostrar una notificación cuando usando 3G</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/notifications_category"
+        android:key="notifications_category">
+        <CheckBoxPreference
+            android:title="@string/show_notification"
+            android:key="showNotification"
+            android:defaultValue="true" />
+
+        <CheckBoxPreference
+            android:title="@string/use_data"
+            android:key="useData"
+            android:dependency="showNotification"
+            android:defaultValue="true" />
+
+        <CheckBoxPreference
+            android:title="@string/toast_definition"
+            android:key="toastDefinition"
+            android:dependency="showNotification"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:title="@string/headsUp"
+            android:key="showHeadsUp"
+            android:dependency="showNotification"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/language_category"
+        android:key="language_category">
+        <ListPreference
+            android:title="@string/select_language"
+            android:dialogTitle="@string/select_language_title"
+            android:entries="@array/select_language_entries"
+            android:entryValues="@array/select_language_values"
+            android:key="apiEndpoint"
+            android:defaultValue="@string/api_endpoint" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

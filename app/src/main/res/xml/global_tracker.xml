@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">300</integer>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!-- The screen names that will appear in reports -->
+    <screenName name="live.bar.dictionary.wiki.dictionarybar.MainActivity">
+        Home screen
+    </screenName>
+    <screenName name="live.bar.dictionary.wiki.dictionarybar.SettingsHolder">
+        Settings
+    </screenName>
+    <screenName name="live.bar.dictionary.wiki.dictionarybar.Meaning">
+        List of definitions
+    </screenName>
+    <!--  The following value should be replaced with correct property id. -->
+    <string name="ga_trackingId">UA-38018123-19</string>
+</resources>

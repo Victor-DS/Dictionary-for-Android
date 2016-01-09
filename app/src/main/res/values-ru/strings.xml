@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">О приложении</string>
+    <string name="api_endpoint">http://ru.wiktionary.org/</string>
+    <string name="app_name">Словарь</string>
+    <string name="about_message">Спасибо за загрузку! Это приложение было сделано с помощью Викисловарь. Для получения более подробной информации, перейдите на wikitionary.org.</string>
+    <string name="action_settings">Настройки</string>
+    <string name="failed_to_get_definition">Не удалось получить какое-либо определение</string>
+    <string name="language_category">Язык</string>
+    <string name="loading">Загрузка...</string>
+    <string name="meaning_activity_title">Определение</string>
+    <string name="no_match">Нет матч</string>
+    <string name="notifications_category">Уведомления</string>
+    <string name="rate">Оценить приложение</string>
+    <string name="rate_gp">Оценить приложение на Google Play</string>
+    <string name="rate_message">Разве вам нравится приложение? Если это так, оцените его на Google Play!</string>
+    <string name="select_language">Язык Выберите словаря</string>
+    <string name="select_language_title">Язык</string>
+    <string name="show_notification">Показать уведомления</string>
+    <string name="something_went_wrong">Ops...</string>
+    <string name="status_bar_et_text">Слово...</string>
+    <string name="thanks">Спасибо!</string>
+    <string name="toast_definition">Показать определение на экране</string>
+    <string name="use_data">Показать уведомление при использовании данных</string>
+</resources>

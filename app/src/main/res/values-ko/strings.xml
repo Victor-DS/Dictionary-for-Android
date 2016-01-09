@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">사전</string>
+    <string name="about">응용 프로그램 소개</string>
+    <string name="about_message">다운로드를위한 감사합니다! 이 응용 프로그램은 위키 낱말 사전을 사용 하였다. 자세한 내용은 wikitionary.org로 이동합니다.</string>
+    <string name="action_settings">설정</string>
+    <string name="api_endpoint">http://ko.wiktionary.org/</string>
+    <string name="failed_to_get_definition">어떤 정의를 가져올 수 없습니다</string>
+    <string name="language_category">언어</string>
+    <string name="loading">로드 중 ...</string>
+    <string name="meaning_activity_title">정의</string>
+    <string name="no_match">일치하지</string>
+    <string name="notifications_category">알림</string>
+    <string name="rate">응용 프로그램을 평가</string>
+    <string name="rate_gp">구글 플레이에 앱을 평가</string>
+    <string name="rate_message">당신은 응용 프로그램을 좋아 했나요? 이 경우, 구글 플레이에 평점!</string>
+    <string name="select_language">선택 사전의 언어</string>
+    <string name="select_language_title">언어</string>
+    <string name="show_notification">알림 표시</string>
+    <string name="something_went_wrong">Oops...</string>
+    <string name="status_bar_et_text">워드 ...</string>
+    <string name="thanks">감사합니다!</string>
+    <string name="toast_definition">화면의 정의를보기</string>
+    <string name="use_data">데이터를 사용하는 경우 알림 표시</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="api_endpoint">http://mg.wiktionary.org/</string>
+    <string name="about">About</string>
+    <string name="about_message">We hope you\'ve liked it!\n\nThis app would not have been possible         without Wiktionary. All words and definitions come from there, so if you\'d like to access         it on your PC or help out, just go to wiktionary.org.\n\nOh, since we got your attention, why not go to Google Play and tell us if you liked the app?\nYes, we read all comments.</string>
+    <string name="action_settings">Settings</string>
+    <string name="failed_to_get_definition">Couldn\'t get any definition</string>
+    <string name="loading">Loading...</string>
+    <string name="meaning_activity_title">Definition</string>
+    <string name="no_match">No match</string>
+    <string name="rate">Rate ti!</string>
+    <string name="rate_gp">Rate on Google Play</string>
+    <string name="rate_message">Hey, did you like the app? If so, take 20s of your time to rate it on Google Play, we would really appreciate it.</string>
+    <string name="select_language">Select dictionary\'s language</string>
+    <string name="select_language_title">Language</string>
+    <string name="show_notification">Show notifications</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Word...</string>
+    <string name="thanks">Misaotra</string>
+    <string name="use_data">Show notification when using data</string>
+    <string name="language_category">Language</string>
+    <string name="notifications_category">Notifications</string>
+    <string name="toast_definition">Show definition on screen</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diccionari</string>
+    <string name="about">Sobre</string>
+    <string name="api_endpoint">http://ca.wiktionary.org/</string>
+    <string name="action_settings">Ajustos</string>
+    <string name="about_message">Gràcies per dowloading! Aquesta aplicació es va realitzar utilitzant Viccionari. Per a més informació anar a http://ca.wiktionary.org/</string>
+    <string name="failed_to_get_definition">No s\'ha pogut obtenir cap definició</string>
+    <string name="loading">Carregant...</string>
+    <string name="meaning_activity_title">Definició</string>
+    <string name="no_match">No hi ha resultats</string>
+    <string name="rate">Qualifica aquesta a Google Play</string>
+    <string name="rate_gp">Qualifica aquesta a Google Play</string>
+    <string name="rate_message">T\'ha agradat l\'aplicació? Qualifica aquesta a Google Play, per favor.</string>
+    <string name="select_language">Seleccionar idioma de diccionari</string>
+    <string name="select_language_title">Idioma</string>
+    <string name="show_notification">Mostrar notificacions</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Palabra...</string>
+    <string name="thanks">Gràcies</string>
+    <string name="use_data">Mostrar una notificació quan l\'ús de dades</string>
+    <string name="language_category">Idioma</string>
+    <string name="notifications_category">Notificacions</string>
+    <string name="toast_definition">Mostrar les definicions que apareixen en pantalla</string>
+</resources>

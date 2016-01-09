@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ordbok (Bokmål)</string>
+    <string name="api_endpoint">http://no.wiktionary.org/</string>
+    <string name="about_message">Takk for at du laster ned! Denne app bruker Wiktionary å få ord definisjon. For mer informasjon, gå til wiktionary.org</string>
+    <string name="about">Om denne appen</string>
+    <string name="action_settings">innstillinger</string>
+    <string name="language_category">Språk</string>
+    <string name="failed_to_get_definition">Kunne ikke få noen definisjon</string>
+    <string name="loading">Laster inn...</string>
+    <string name="meaning_activity_title">Definisjon</string>
+    <string name="no_match">Ingen kamp</string>
+    <string name="notifications_category">Påminnelser</string>
+    <string name="rate">Rangere denne app</string>
+    <string name="rate_gp">Rangere denne app på Google Play</string>
+    <string name="rate_message">Visste du liker app? I så fall vurdere det på Google Play, ville vi virkelig pris på det.</string>
+    <string name="select_language">Velg ordbok språk</string>
+    <string name="select_language_title">Språk</string>
+    <string name="show_notification">Vis varslinger</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Word...</string>
+    <string name="thanks">Takk!</string>
+    <string name="toast_definition">Vis definisjon på skjermen</string>
+    <string name="use_data">Vis varsling når du bruker 3G</string>
+</resources>

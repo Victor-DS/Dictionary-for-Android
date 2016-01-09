@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Žodynas</string>
+    <string name="about">Apie app</string>
+    <string name="about_message">Ačiū už atsisiųsti! Ši programa buvo naudojant taisyti. Norėdami gauti daugiau informacijos, eikite į wikitionary.org.</string>
+    <string name="action_settings">Nustatymai</string>
+    <string name="api_endpoint">http://lt.wiktionary.org/</string>
+    <string name="failed_to_get_definition">Nepavyko gauti bet apibrėžimą</string>
+    <string name="language_category">Kalba</string>
+    <string name="loading">Įkeliama...</string>
+    <string name="meaning_activity_title">Apibrėžimas</string>
+    <string name="no_match">Nėra rungtynės</string>
+    <string name="notifications_category">Pranešimai</string>
+    <string name="rate">Įvertinti programą</string>
+    <string name="rate_gp">Įvertinti Google Play "programą</string>
+    <string name="rate_message">Ar jums patinka app? Jei taip, vertinti ją "Google Play"!</string>
+    <string name="select_language">Pasirinkite žodyno kalba</string>
+    <string name="select_language_title">Kalba</string>
+    <string name="show_notification">Rodyti pranešimus</string>
+    <string name="something_went_wrong">Oops...</string>
+    <string name="status_bar_et_text">Žodis...</string>
+    <string name="thanks">Ačiū!</string>
+    <string name="toast_definition">Rodyti apibrėžimą ekrane</string>
+    <string name="use_data">Rodyti pranešimą naudojant duomenis</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Woordenboek</string>
+    <string name="api_endpoint">http://nl.wiktionary.org/</string>
+    <string name="about">Over deze app </string>
+    <string name="about_message">Bedankt voor het downloaden! Deze app maakt gebruik Wiktionary aan de definitie van het woord te krijgen. Voor meer informatie, ga naar wiktionary.org</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="failed_to_get_definition">Kon geen definitie niet krijgen</string>
+    <string name="language_category">Taal</string>
+    <string name="loading">Laden...</string>
+    <string name="meaning_activity_title">Definitie</string>
+    <string name="no_match">Geen match</string>
+    <string name="notifications_category">Bekendmakingen</string>
+    <string name="rate">Beoordeel deze app</string>
+    <string name="rate_gp">Beoordeel deze app op Google Play</string>
+    <string name="rate_message">Vond je de app? Zo ja, beoordeel het op Google Play, zouden we echt waarderen.</string>
+    <string name="select_language">Dictionary taal</string>
+    <string name="select_language_title">Taal</string>
+    <string name="show_notification">Meldingen weergeven</string>
+    <string name="something_went_wrong">Oops!</string>
+    <string name="status_bar_et_text">Word...</string>
+    <string name="thanks">Bedankt!</string>
+    <string name="toast_definition">Laat definition op het scherm</string>
+    <string name="use_data">Toon notificatie bij gebruik van 3G-</string>
+</resources>
